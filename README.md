@@ -124,6 +124,11 @@ The project leverages Python libraries such as **pandas, NumPy, yfinance, Matplo
 3. Install dependencies:
    pip install pandas numpy yfinance matplotlib seaborn plotly missingno
 4. Open Jupyter Notebook or Google Colab to run analysis
+
+## 📄 Project Report (HTML)
+Click below to view the full analysis report:
+
+👉 [View HTML Report](index.html)
 ## Visualizations
 
 This section presents the key visual outputs from the financial analysis, illustrating market trends, price action, risk profiles, and index interdependencies across the Nifty 50 (^NSEI), BSE Sensex (^BSESN), and Nifty Bank (^NSEBANK) from 2017 to 2024.
