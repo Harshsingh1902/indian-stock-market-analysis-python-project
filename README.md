@@ -127,8 +127,7 @@ The project leverages Python libraries such as **pandas, NumPy, yfinance, Matplo
 
 ## 📄 Project Report (HTML)
 Click below to view the full analysis report:
-
-👉 [View HTML Report](index.html)
+👉 (https://harshsingh1902.github.io/indian-stock-market-analysis-python-project/)
 ## Visualizations
 
 This section presents the key visual outputs from the financial analysis, illustrating market trends, price action, risk profiles, and index interdependencies across the Nifty 50 (^NSEI), BSE Sensex (^BSESN), and Nifty Bank (^NSEBANK) from 2017 to 2024.
